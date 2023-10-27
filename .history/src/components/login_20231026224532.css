@@ -1,0 +1,18 @@
+.login-page{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box {
+  width: 414px;
+  height: 238px;
+  top: 384px;
+  left: 513px;
+}
+.login-box h1 {
+  font-family: Roboto;
+  font-size: 38px;
+}
